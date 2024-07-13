@@ -1,0 +1,15 @@
+.Video_Container{
+    width:80%;
+    margin:auto;
+}
+.location-temp-popup {
+    position: absolute;
+    top: 18px;
+    left: 40%;
+    background-color: lightgray;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1000;
+    font-size: 14px;
+  }
